@@ -6,4 +6,4 @@ here you will find the following files:
 - genomeAnnotationComms.sh - annotation commands for the A. fabae genome
 - comparativeGenomics.sh - comparative analysis work against other aphid species (phylogenetic inference, orthologue analysis and synteny analysis)
 - symbiontAsemblyAnnotation.sh - bacterial symbiont assembly and annotation, identified from A. fabae assembly
-- scripts/ - associated scripts used in genome Annotation and phylogentic tree generation
+- scripts/ - associated scripts used in genome Annotation and phylogenetic tree generation
